@@ -23,6 +23,9 @@
 - :nerd_face: Always `learning new things`
 
 <br>
+##Snake is eating my contribution - :thinking:
+
+![snake gif](https://github.com/shahnawaz8/shahnawaz8/blob/output/github-contribution-grid-snake.gif)
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
