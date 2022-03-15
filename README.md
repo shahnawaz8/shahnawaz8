@@ -23,7 +23,7 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-## :thinking: Snake is eating my contribution
+## :sassy_man:  Snake is eating my contribution
 
 ![snake gif](https://github.com/shahnawaz8/shahnawaz8/blob/output/github-contribution-grid-snake.gif)
 
