@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mohd Shahnawaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;learning+at+Masai+School;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;learning+Full+Stack+Web+Development+at+Masai+School;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=1000&height=100"></a>
 </p>
 
 
@@ -184,7 +184,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/shahnawaz8"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahnawaz8&custom_title=shahnawaz8's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/shahnawaz8"><img alt="shahnawaz8's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahnawaz8&custom_title=shahnawaz8's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -192,4 +192,4 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="shahnawaz8" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnawaz8&layout=compact&theme=algolia" alt="shahnawaz8" /></a> </p>
