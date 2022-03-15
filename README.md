@@ -15,7 +15,6 @@
 
 
 ## :sassy_man:  About m
-- :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Full Stack Web Development` from `Masai School`.
