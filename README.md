@@ -7,10 +7,8 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=shahnawaz8&label=Profile%20views&color=0e75b6&style=plastic" alt="shahnawaz8" /> 
-	<a href = "https://commits.top/india.html" target="_blank">
-<!-- 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="shahnawaz8" target="_blank"/>  -->
-	</a>
+	<img src="http://hits.dwyl.com/shahnawaz8/ABSphreak.svg">
+
 </p>
 
 
