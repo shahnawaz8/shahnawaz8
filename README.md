@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `LeetCode`
 - :student: I’m currently learning: `Full Stack Web Development` from `Masai School`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1M8TdAhP5JieYLcoCpFEGNERBNlv9IeUv/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1M8TdAhP5JieYLcoCpFEGNERBNlv9IeUv/view?usp=sharing) And [MY Portfolio](https://myportfolio-2022.vercel.app/).
 - :nerd_face: Always `learning new things`
 
 <br>
