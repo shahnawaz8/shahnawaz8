@@ -12,7 +12,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_man:  About Me
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `LeetCode`
 - :student: I’m a `Backend Developer (node js)`.
