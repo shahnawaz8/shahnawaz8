@@ -14,7 +14,7 @@
 
 ## :sassy_man:  About Me
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `LeetCode`
+- :computer: I am a competitive programmer mainly at `LeetCode`  
 - :student: I’m a `Backend Developer (node js)`.
 <!-- - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1M8TdAhP5JieYLcoCpFEGNERBNlv9IeUv/view?usp=sharing) And [MY Portfolio](https://myportfolio-2022.vercel.app/).-->
 - :nerd_face: Always `learning new things`
