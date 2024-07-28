@@ -32,7 +32,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/shahnwaz8/github-readme-stats"><img alt="shahnawaz8's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahnawaz8&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/shahnwaz8/github-readme-stats"><img alt="shahnawaz8's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahnawaz8&show_icons=true&count_private=true&theme=algolia" height="192px"/> </a>
 <br/>
   </p>
 
