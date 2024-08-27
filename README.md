@@ -20,8 +20,7 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-<!-- <h2>Contribution</h2>
-
+<!-- <h2>Contribution</h2>  
 ![snake gif](https://github.com/shahnawaz8/shahnawaz8/blob/output/github-contribution-grid-snake.gif)
  -->
 
