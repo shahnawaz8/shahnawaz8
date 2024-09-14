@@ -107,11 +107,11 @@
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"> <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 	 &emsp;
-    <a href="#"><img alt="ChromeDevTool" src="https://img.shields.io/badge/ChromeDevTool-%232C2255.svg?&style=plastic&logo=chromedevtool%20ide&logoColor=white" /></a>
+    <a href="#"> <img alt="ChromeDevTool" src="https://img.shields.io/badge/ChromeDevTool-%232C2255.svg?&style=plastic&logo=chromedevtool%20ide&logoColor=white" /></a>
 	&emsp;
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/Npm-%2343B02A.svg?&style=plastic&logo=npm&logoColor=white"></a>
+    <a href="#"> <img alt="NPM" src="https://img.shields.io/badge/Npm-%2343B02A.svg?&style=plastic&logo=npm&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
