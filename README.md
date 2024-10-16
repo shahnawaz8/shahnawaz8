@@ -88,7 +88,7 @@
   </a> 
 &emsp;
     <a href="#"> <img alt="React" src="https://img.shields.io/badge/React%20-%2334A853.svg?style=plastic&logo=react&logoColor=cyan"></a>
-  &emsp;
+  &emsp; 
 
 	
 	
