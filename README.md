@@ -7,8 +7,6 @@
 <p align="center">  
     <img src="http://hits.dwyl.com/shahnawaz8/ABSphreak.svg">  
 </p> 
-
-
 ## :sassy_man:  About Me
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `LeetCode`  
